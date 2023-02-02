@@ -1,4 +1,4 @@
-# FaceMaskDetection
+# FaceMask Classification with CNN
 
 Solving an Image Classification problem with a convolution neural network that would classify the images into 5 different classes of mask types.Initially the emphasis was on data pre-processing and model architecture after which the bias in the data was identified and removed. further the accuracy was increased by tuning the hyper parameters and a Kfold cross validation was applied on the model.
 
